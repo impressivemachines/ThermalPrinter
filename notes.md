@@ -1,4 +1,4 @@
-### Printer Information
+### Project Notes
 
 The printer is an EPSON TM-T88IV USB POS printer which takes 80mm paper.
 There are no ARM linux drivers for this printer. 
