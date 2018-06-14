@@ -6,7 +6,7 @@ USB details.
 
 ### USB details obtained:
 
-`Bus 001 Device 007: ID 04b8:0202 Seiko Epson Corp. Receipt Printer M129C/TM-T70  
+Bus 001 Device 007: ID 04b8:0202 Seiko Epson Corp. Receipt Printer M129C/TM-T70  
 Device Descriptor:  
   bLength                18  
   bDescriptorType         1  
@@ -55,12 +55,13 @@ Device Descriptor:
       Endpoint Descriptor:  
         bLength                 7  
         bDescriptorType         5  
-        bEndpointAddress     0x82  EP 2 IN
-        bmAttributes            2
-          Transfer Type            Bulk
-          Synch Type               None
-          Usage Type               Data
-        wMaxPacketSize     0x0040  1x 64 bytes
-        bInterval               0
-Device Status:     0x0001
-  Self Powered`
+        bEndpointAddress     0x82  EP 2 IN  
+        bmAttributes            2  
+          Transfer Type            Bulk  
+          Synch Type               None  
+          Usage Type               Data  
+        wMaxPacketSize     0x0040  1x 64 bytes  
+        bInterval               0  
+Device Status:     0x0001  
+  Self Powered  
+
