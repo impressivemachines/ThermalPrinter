@@ -4,6 +4,8 @@ To obtain this information one must use `lsusb` to find the printer vendor and p
 printer driver. For this printer the codes are 0x04b8 and 0x0202. After that run the command with `lsusb -vvv -d 04b8:0202` to get all the nice
 USB details.
 
+From this you can see that there are two endpoints, one for IN with address 0x82 and one for OUT with address 0x01.
+
 ### USB details obtained:
 
 * Bus 001 Device 007: ID 04b8:0202 Seiko Epson Corp. Receipt Printer M129C/TM-T70  
