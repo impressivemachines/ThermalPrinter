@@ -12,3 +12,5 @@ To get a back-up printer working an Adafruit serial printer was connected to a M
 * Experiments to print using the ESC/POS interface on a small serial Adafruit thermal printer using python from the Mac are in the folder `Adafruit`.
 
 * Documentation on the EPSON TM-T88IV printer is in folder `TM-T88IV`.
+
+* Also see [Notes](notes.md).
