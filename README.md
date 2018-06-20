@@ -13,4 +13,6 @@ To get a back-up printer working an Adafruit serial printer was connected to a M
 
 * Documentation on the EPSON TM-T88IV printer is in folder `TM-T88IV`.
 
+* Images folder which contains project photos and test images to print.
+
 * Also see [Notes](notes.md).
