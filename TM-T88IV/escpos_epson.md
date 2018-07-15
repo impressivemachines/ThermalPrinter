@@ -1,5 +1,7 @@
 # Overview of the valid ESC/POS commands for the TM-T88IV printer
 
+The detail of the ESC/POS commands can be found at the [official site](https://reference.epson-biz.com/modules/ref_escpos/index.php?content_id=2#). On that site, once you select your printer model, it will provide additional implementation details associated with the printer type.
+
 These are the non-deprecated commands for the printer.
 
 * **HT** Horizontal tab (09)
